@@ -1,2 +1,4 @@
-/ContosoPizza/.vscode/
-/ContosoPizza/bin/
+*.vscode/
+*bin/
+*obj
+*Debug
